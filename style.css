@@ -333,17 +333,16 @@ body{
     .f-word{ 
         background-color: rgba(242, 240, 242, 1);
         border-radius: 0px 40px 40px 0px;
-        min-width: 50%;
-        min-height: 16.63rem;
-        margin-top: 1rem;
-        padding: 0,4rem;
-        text-align: center;
+        width: 50%;
+        min-height: 17.3rem;
+        margin: 3.4rem;
+        padding: 0.5rem;
     } 
     
     
     .f-h1{
-        padding: 0.5rem;
-        line-height: 3rem;
+        padding: 1rem;
+        line-height: 2.5rem;
         text-align: center;
         font-size: 2rem;
         align-self: center;
@@ -351,7 +350,7 @@ body{
     }
     
     .f-p{
-        padding: 1rem;
+        padding: 2.3rem;
         line-height: 1.9rem;
         color: rgba(24, 26, 24, 1);
         text-align: center;
@@ -373,7 +372,7 @@ body{
     }
     
     .Id{
-        width: 34rem;
+        width: 37rem;
         min-height: 5rem;
         margin-left: 1rem;
         align-items: center;
@@ -384,7 +383,7 @@ body{
     }
     
     .ft-p{
-        width: 33rem;
+        width: 37rem;
         margin-left: 1rem;
         text-align: center;
         font-family: Lato;
